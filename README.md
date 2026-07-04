@@ -19,7 +19,7 @@ C-like err codes providable module
 go get github.com/rejchev/errno
 ```
 
-### Usage mapped opts
+### Usage example
 ```go
 import (
 	"context"
